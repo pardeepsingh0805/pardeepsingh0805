@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analytics projects
-- 📫 Please contact me on pardeepsingh0805@gmail.com
+- 📫 Please contact me on https://www.linkedin.com/in/pardeepsingh0805/
 
 <!---
 pardeepsingh0805/pardeepsingh0805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
