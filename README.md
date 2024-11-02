@@ -1,10 +1,10 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Pardeep 👋
 
 I'm a Django developer and software engineer with a focus on building scalable, customizable web applications and content management solutions. With hands-on experience in designing end-to-end platforms for travel, CMS, and booking systems, I strive to develop efficient, reusable apps that empower businesses to manage their operations seamlessly.
 
 ## 🔧 Core Skills & Expertise
 - **Backend Development**: Expert in Django, Python, and building REST APIs
-- **Frontend Integration**: Skilled in Vue.js, Tailwind CSS, and JavaScript for responsive and dynamic UIs
+- **Frontend Integration**: Skilled in Vue.js, Tailwind CSS, Bootstrap and JavaScript for responsive and dynamic UIs
 - **Database Management**: Proficient in SQL, MySQL, and database deployment via cPanel
 - **Cloud & Deployment**: Currently exploring AWS solutions for scalable deployments
 - **E-commerce & Booking Systems**: Experience in creating booking and payment modules that support complex workflows
